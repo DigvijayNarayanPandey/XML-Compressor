@@ -1,0 +1,39 @@
+<students>
+    <student>
+        <id>101</id>
+        <name>John Doe</name>
+        <major>Computer Science</major>
+        <gpa>3.8</gpa>
+        <courses>
+            <course>
+                <code>CS101</code>
+                <title>Introduction to Computer Science</title>
+                <credits>4</credits>
+            </course>
+            <course>
+                <code>CS102</code>
+                <title>Data Structures</title>
+                <credits>3</credits>
+            </course>
+        </courses>
+    </student>
+    <student>
+        <id>102</id>
+        <name>Jane Smith</name>
+        <major>Mathematics</major>
+        <gpa>3.9</gpa>
+        <courses>
+            <course>
+                <code>MATH101</code>
+                <title>Calculus I</title>
+                <credits>4</credits>
+            </course>
+            <course>
+                <code>MATH102</code>
+                <title>Linear Algebra</title>
+                <credits>3</credits>
+            </course>
+        </courses>
+    </student>
+</students>
+
